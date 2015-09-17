@@ -4,7 +4,7 @@ You, and your trusty band of adventurers, have stumbled upon a hidden cache of r
 Not all gems are created equal, so you sneak them home and take your time evaluating the stones.  
 The find was an equal effort, and you're all horribly greedy, so you must find a fair system for dividing up the gems.  
   
-This week's Ruby Quiz is to write a program that fairly divides treasures, based on worth.  
+This week's challenge is to write a program that fairly divides treasures, based on worth.  
   
 The first command-line argument to the program will be the number of adventures.  
 All other arguments are the numerical values of treasures found.  
