@@ -7,8 +7,6 @@
 A minimalistic boilerplate for a JavaScript project that is tested with [mocha](http://mochajs.org/).
 The project template requires [Node.js](https://nodejs.org/dist/v4.1.0/node-v4.1.0-linux-x64.tar.gz) and [gulp](https://www.npmjs.com/package/gulp) to run unit tests.
 
-For a more extensive demo of Mocha's featureset, take a look at [ryu22e/mocha-example](https://github.com/ryu22e/mocha-example).
-
 ## Usage
 
 1. `git clone https://github.com/julien-amar/kata-js.git`
